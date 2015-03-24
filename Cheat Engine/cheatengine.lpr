@@ -200,7 +200,8 @@ begin
 end;
 
 begin
-  Application.Title:='cLaSsYeNgInE';
+  randomize();
+  Application.Title:=IntToStr(random(0) + 1000000)
   Application.Initialize;
   getcedir;
 
