@@ -6,7 +6,7 @@ object About: TAbout
   HelpContext = 2
   BorderIcons = [biSystemMenu]
   BorderStyle = bsDialog
-  Caption = 'About Cheat Engine'
+  Caption = 'your obviously here to enable dbvm; go ahead'
   ClientHeight = 259
   ClientWidth = 321
   Font.Height = -14
@@ -65,7 +65,7 @@ object About: TAbout
       Height = 13
       Top = 207
       Width = 203
-      Caption = 'And all the other people that helped me out'
+      Caption = 'And all the other people that helped me out (like classyjakey 4 editin dis !! rite)'
       ParentColor = False
     end
     object Image1: TImage
